@@ -177,11 +177,8 @@ Built this way because I literally didn't know how to fix production issues.
 - `GET /api/status` - Detailed system metrics
 
 **🎯 Live Demo Performance:**
-```bash
-curl -X POST http://localhost:4000/api/chat/message \
-  -d '{"message": "I want to cancel my subscription", "userId": "test-user-001"}'
-
-# Response: 1.8s with 85% → 100% risk escalation and full SHAP explanations
-```
+donnabrain.com/chat
+hit "Start New Chat"
+type anything, including "I want to cancel" if you want to see it go.
 
 Built for technical evaluation and live demonstration. **System confirmed working August 2025** ✅
