@@ -184,4 +184,4 @@ curl -X POST http://localhost:4000/api/chat/message \
 # Response: 1.8s with 85% → 100% risk escalation and full SHAP explanations
 ```
 
-Built for technical evaluation and live demonstration. **System confirmed working January 2025** ✅
+Built for technical evaluation and live demonstration. **System confirmed working August 2025** ✅
