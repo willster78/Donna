@@ -1,5 +1,5 @@
 # Donna
-
+Loom demonstration: https://www.loom.com/share/34a3906c99894c478dfa310218387f13
 # DONNA: Real-time Churn Detection with Explainable AI
 
 **Technical demonstration** of GPU-accelerated churn prediction with authentic behavioral analysis, cumulative risk scoring, and SHAP explanations.
