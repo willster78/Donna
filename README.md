@@ -147,6 +147,7 @@ Beyond the graceful Redis management mentioned above, the system includes compre
 - **Model Performance Monitoring**: Rolls back models if accuracy drops >5%
 - **Health Checks Every 2 Minutes**: Proactive issue detection
 - **No Kubernetes Required**: All recovery logic built into the application layer
+  Built this way because I literally don't know how to fix production issues.
 
 **Initialization Time**: 70 seconds (includes GPU model loading, Redis setup, TensorFlow initialization) - **this is normal for the sophistication level**
 
