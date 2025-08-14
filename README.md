@@ -131,7 +131,7 @@ curl -X POST http://localhost:4000/api/chat/message \
 
 ## Verified System Status ✅
 
-**Latest Test Results (January 2025):**
+**Latest Test Results (August 2025):**
 - ✅ **Keyword amplification**: "I want to cancel" → 85% risk in 1.8s  
 - ✅ **Cumulative risk tracking**: Session-level escalation detection working
 - ✅ **SHAP explanations**: 304ms standard, 30ms quick mode
